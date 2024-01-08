@@ -1,0 +1,11 @@
+Container = top will contain header and "intro" element
+
+header logo will the "The Game" logo.
+header links will be Early years, Prime years, to current..
+
+intro bold text: If Everyone doesn't hate you, you're not living up to your full potential.
+intro light text: Sign up to become your own cerebral assassin
+intro sign up button 
+picture to the right is msg return 
+
+

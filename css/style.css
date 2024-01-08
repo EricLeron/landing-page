@@ -1,5 +1,7 @@
 .container{
     background-color: black;
+    padding: 8px 90px;
+    color: lightgreen;
 }
 
 .header{
@@ -8,13 +10,42 @@
     align-items: center;
 }
 
-.container img{
+.header img{
     width: 150px;
     height: auto;
 }
 
 .container ul{
     display: flex;
-    color: lightgreen;
     gap: 1rem;
+    font-size: medium;
+    list-style-type: none;
+}
+
+.intro{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.intro img{
+    height: 150px;
+    width: auto;
+}
+
+.welcome{
+    width: 500px;
+}
+
+.boldy{
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+.signup{
+    background-color: lightgreen;
+    color: black;
+}
+.container2{
+    background-color: white;
 }
