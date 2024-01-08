@@ -48,4 +48,78 @@
 }
 .container2{
     background-color: white;
+    margin-top: 25px;
 }
+
+.container2 .organize{
+    display: flex;
+    justify-content: space-around;
+}
+
+.container2 .title{
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    margin: 24px;
+}
+
+.container2 img{
+    height: 150px;
+    width: 150px;
+    border: 8px solid;
+    border-color: lightgreen;
+}
+
+.container2 .eras {
+    text-align: center;
+}
+
+.text{
+    font-weight: bold;
+}
+
+.container3{
+    background-color: lightgray;
+    padding: 8px 90px;
+    margin: 16px;
+}
+
+.quote{
+    font-size: x-large;
+}
+
+.author{
+    text-align: right;
+    font-size: large;
+    font-weight: bold;
+}
+
+.container4 {
+    background-color: white;
+    padding: 8px 90px;
+    justify-items: center;
+}
+
+.textbox{
+    background-color: lightgreen;
+    display: flex;
+    justify-content: space-between;
+    padding: 48px 48px;
+    align-items: center;
+}
+
+.heads{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.ender{
+    background-color: lightgreen;
+    height: min-content;
+    
+}
+
+p {
+    margin: 0;
+}
+
